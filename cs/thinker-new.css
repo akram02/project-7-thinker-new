@@ -1,5 +1,5 @@
 * {
-  font-family: 'Roboto', arial, sans-serif
+  font-family: 'Roboto', arial, sans-serif;
   margin:0;
   padding:0;
 }
@@ -98,7 +98,7 @@ body {
 }
 .text-content h2 span {
   color:#33c1cf;
-  font-weight:700px;
+  font-weight:700;
 }
 .text-content h2 em {
   font-style:normal;
@@ -152,7 +152,7 @@ body {
 .service-item h4 {
   color:white;
   margin:45px 0 17px;
-  font-size:17xp;
+  font-size:17px;
   font-weight:500;
   letter-spacing:1px;  
 }
@@ -307,7 +307,7 @@ img {
 }
 .tab-contant {
   background:url(img/blog-bg.jpg);
-  background-repeat:on-repeat;
+  background-repeat:no-repeat;
   background-attachment:fixed;
   background-size: cover;
 }
@@ -377,7 +377,7 @@ img {
 }
 .tab-content-text h4 {
   font-size:17px;
-  font-weight:500px;
+  font-weight:500;
   letter-spacing:.5px;
   margin:0 0 5px;
 }
